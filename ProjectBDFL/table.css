@@ -1,0 +1,49 @@
+th {
+    background-color: blue;
+    color: white;
+    width: 250px;
+    text-align: center;
+    text-size-adjust:auto;
+    
+    
+    
+
+}
+tr{
+ height: 25px;
+}
+table{
+   text-align: center;
+   align-content: center;
+   padding: 40px;
+   border: none;
+}
+.BGcolors{
+   background-color: whitesmoke;
+}
+.OTHER{
+   background-color: lightskyblue;
+}
+button{
+ background-color: none;
+ border: none;
+ 
+}
+div {
+ align-items: center;
+width: 20px;
+height: 1px;
+background-color: black;
+margin: 6px 0;
+}
+h1 {
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+font-weight: bold;
+height: 80px;
+}
+span{
+text-align: center;
+flex: initial;
+
+}
